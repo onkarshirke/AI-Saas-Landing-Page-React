@@ -1,12 +1,11 @@
-# AI SaaS Landing Page Tutorial
-
+# AI SaaS Landing Page 
 <div align="center">
   <br />
   <br />
   <h3 align="center">Build a Beautiful, Modern Landing Page for Your AI SaaS</h3>
   <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://github.com/onkarshirke" target="_blank"><b>YouTube</b></a>
+    Follow for more such Repositories 
+    <a href="https://github.com/onkarshirke" target="_blank"
   </div>
   <br />
 </div>
