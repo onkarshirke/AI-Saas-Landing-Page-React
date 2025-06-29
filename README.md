@@ -27,8 +27,6 @@ Here’s the fully updated version of your README with **all image links, banner
 
 In this video tutorial, you'll learn how to build a beautiful, modern landing page tailored for your AI SaaS company. This project uses React, Vite, Tailwind CSS, and Zustand to deliver a sleek, responsive website designed to showcase your product and convert visitors into customers.
 
-Watch the full tutorial on [YouTube](https://github.com/onkarshirke).
-
 ## ⚙️ Tech Stack
 
 - **React** – For building the user interface  
